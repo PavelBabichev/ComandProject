@@ -1,0 +1,79 @@
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\bin\Debug\Testing.exe.config
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\bin\Debug\Testing.exe
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\bin\Debug\Testing.pdb
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\MainWindow.baml
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\MainWindow.g.cs
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\App.g.cs
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\Testing_MarkupCompile.cache
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\Testing.g.resources
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\Testing.Properties.Resources.resources
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\Testing.csproj.GenerateResource.Cache
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\Testing.exe
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\Testing.pdb
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\Registration.baml
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\Registration.g.cs
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\MainWindowProgram.baml
+c:\users\adm\documents\visual studio 2013\Projects\Testing\Testing\obj\Debug\MainWindowProgram.g.cs
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\bin\Debug\Testing.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\Testing.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\Testing.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\bin\Debug\Testing.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\bin\Debug\Testing.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\MainWindow.baml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\MainWindowProgram.baml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\PassingTest.baml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\Registration.baml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\MainWindowProgram.g.cs
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\PassingTest.g.cs
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\Registration.g.cs
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\App.g.cs
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\Testing_Content.g.cs
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\Testing_MarkupCompile.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\Testing.g.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\Testing.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Testing\Testing\obj\Debug\Testing.csproj.GenerateResource.Cache
+C:\Users\adm\Documents\Visual Studio 2013\Projects\Testing\Testing\bin\Debug\EntityFramework.dll
+C:\Users\adm\Documents\Visual Studio 2013\Projects\Testing\Testing\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adm\Documents\Visual Studio 2013\Projects\Testing\Testing\bin\Debug\EntityFramework.xml
+C:\Users\adm\Documents\Visual Studio 2013\Projects\Testing\Testing\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adm\Documents\Visual Studio 2013\Projects\Testing\Testing\obj\Debug\PassingTest.baml
+C:\Users\adm\Documents\Visual Studio 2013\Projects\Testing\Testing\obj\Debug\PassingTest.g.cs
+C:\Users\adm\Documents\Visual Studio 2013\Projects\Testing\Testing\obj\Debug\Testing_Content.g.cs
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\bin\Debug\Testing.exe.config
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\Testing.exe
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\Testing.pdb
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\bin\Debug\Testing.exe
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\bin\Debug\Testing.pdb
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\MainWindowProgram.baml
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\PassingTest.baml
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\Registration.baml
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\MainWindowProgram.g.cs
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\PassingTest.g.cs
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\Registration.g.cs
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\Testing_Content.g.cs
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\Testing_MarkupCompile.cache
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\Testing.g.resources
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\Testing.Properties.Resources.resources
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\Testing.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\viewRusult.g.cs
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\Testing_MarkupCompile.lref
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\viewRusult.baml
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\redaktorTestov.g.cs
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\redaktorTestov.baml
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\redactorAnswer.g.cs
+C:\Users\Asus\Desktop\семнадц\Testing\Testing\obj\Debug\redactorAnswer.baml

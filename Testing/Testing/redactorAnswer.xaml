@@ -1,0 +1,22 @@
+﻿<Window x:Class="Testing.redactorAnswer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Testing"
+        mc:Ignorable="d"
+         Background="#A9D0F5"
+        Title="Редактор ответов" Height="632.361" Width="310">
+    <Grid Margin="0,0,2,0">
+        <Label x:Name="label_Copy2" Content="Выбранный тест" HorizontalAlignment="Left" Margin="17,20,0,0" VerticalAlignment="Top" Width="139" FontSize="12" FontWeight="Bold"/>
+        <ComboBox x:Name="cmbTest" HorizontalAlignment="Left" Margin="17,60,0,0" Text="" VerticalAlignment="Top" Width="204" Height="29" FontSize="12" FontWeight="Bold"/>
+        <Label x:Name="label_Copy" Content="Выбранный вопрос" HorizontalAlignment="Left" Margin="17,101,0,0" VerticalAlignment="Top" Width="139" FontSize="12" FontWeight="Bold"/>
+        <ComboBox x:Name="cmbQuestion" HorizontalAlignment="Left" Margin="17,140,0,0"  Text="" VerticalAlignment="Top" Width="204" Height="29" FontSize="12" FontWeight="Bold"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left"  Margin="17,191,0,0" VerticalAlignment="Top" Width="246" Height="305"/>
+        <Button x:Name="btnSaveAnswers" HorizontalAlignment="Left" Content="Сохранить" Margin="17,515,0,0" VerticalAlignment="Top" Width="127" Height="26" FontWeight="Bold" FontSize="12" Background="#FF4E4EF5" Foreground="White" Click="btnSaveAnswers_Click" />
+        <Button x:Name="btnAddAnswer" HorizontalAlignment="Left" Content="+" Margin="165,515,0,0" VerticalAlignment="Top" Width="40" Height="26" FontWeight="Bold" FontSize="12" Background="#FF4E4EF5" Foreground="White" Click="btnAddAnswer_Click" />
+        <Button x:Name="btnDeleteAnswer" HorizontalAlignment="Left" Content="-" Margin="223,515,0,0" VerticalAlignment="Top" Width="40" Height="26" FontWeight="Bold" FontSize="12" Background="#FF4E4EF5" Foreground="White" Click="btnDeleteAnswer_Click"/>
+        <Button x:Name="btnRedaktorTestov" HorizontalAlignment="Left" Content="Редактор тестов" Margin="17,556,0,0" VerticalAlignment="Top" Width="246" Height="26" FontWeight="Bold" FontSize="12" Background="#FF4E4EF5" Foreground="White" Click="btnRedaktorTestov_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+﻿<Window x:Class="Testing.PassingTest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         Background="#A9D0F5"
+        Title="Прохождение теста" Height="464" Width="895">
+    <Grid>
+        <TextBlock Name="txtNameTest" HorizontalAlignment="Left" Height="23" Margin="24,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="843" FontSize="16" FontWeight="Bold" TextAlignment="Center" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.006"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBox Name="txtNameQuestion" HorizontalAlignment="Left" Margin="25,63,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" IsReadOnly="True" FontSize="16" Width="840" />
+        <ListBox Name="listAnswer" HorizontalAlignment="Left" Height="156" Margin="25,195,0,0" VerticalAlignment="Top" Width="840" ScrollViewer.VerticalScrollBarVisibility="Visible">
+
+        </ListBox>
+        <Button Name="btnNext" Content="Далее" HorizontalAlignment="Left" Margin="707,377,0,0" VerticalAlignment="Top" Width="135" Background="#FF4E4EF5" Foreground="White" FontWeight="Bold" FontSize="14" Height="32" Click="btnNext_Click"/>
+    </Grid>
+</Window>
